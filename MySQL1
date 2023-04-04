@@ -1,0 +1,195 @@
+
+SELECT * FROM offices;
+
+SELECT * FROM payments;
+
+SELECT * FROM customers;
+
+SELECT * FROM products;
+
+SELECT * FROM orderdetails;
+
+SELECT orderNumbers, status FROM orders;
+
+SELECT productCode, productScale FROM products;
+
+SELECT customerNumber, phone FROM customers;
+
+SELECT productCode, productName, productVendor FROM products;
+
+SELECT officeCode AS offices FROM offices
+
+SELECT (buyPrice * 2 ) FROM products
+
+SELECT (customerNumber +2) AS customerNumber_2 FROM payments
+
+SELECT (customerNumber -2) AS minus_2_customerNumber FROM payments
+
+SELECT (listPrice *2) AS Double_list_price FROM products
+
+SELECT (priceEach / 2) FROM orderDetails
+
+SELECT ( orderNumber * 1.2 ), ( quantityOrdered * 1.2 )   FROM orderdetails
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+SELECT          FROM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
